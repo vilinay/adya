@@ -32,3 +32,5 @@ src/main/gen
 # gradle
 .gradle
 build
+
+.idea
