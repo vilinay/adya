@@ -3,8 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/adya.languagetocode.iml" filepath="$PROJECT_DIR$/.idea/modules/adya.languagetocode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adya.languagetocode_main.iml" filepath="$PROJECT_DIR$/.idea/modules/adya.languagetocode_main.iml" group="adya.languagetocode" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adya.languagetocode_test.iml" filepath="$PROJECT_DIR$/.idea/modules/adya.languagetocode_test.iml" group="adya.languagetocode" />
+      <module fileurl="file://$PROJECT_DIR$/languageToCode/languageToCode.iml" filepath="$PROJECT_DIR$/languageToCode/languageToCode.iml" group="adya.languagetocode" />
     </modules>
   </component>
 </project>
